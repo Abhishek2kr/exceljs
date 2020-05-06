@@ -265,6 +265,7 @@ And one without...
 ## Create a Workbook
 
 ```javascript
+const Excel = require('exceljs');
 var workbook = new Excel.Workbook();
 ```
 
